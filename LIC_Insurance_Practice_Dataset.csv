@@ -1,0 +1,51 @@
+Customer_ID,Age,Gender,City,Policy_Type,Policy_ID,Premium_Amount,Sum_Assured,Policy_Term,Payment_Mode,Policy_Status,Claim_Amount
+CUST001,25,Male,Trichy,Jeevan Anand,LICP0001,14151,500000,30,Half-Yearly,Active,481136
+CUST002,55,Female,Salem,Term Insurance,LICP0002,34328,1500000,15,Yearly,Active,0
+CUST003,50,Female,Trichy,Jeevan Anand,LICP0003,8385,500000,30,Half-Yearly,Active,0
+CUST004,40,Female,Madurai,Jeevan Anand,LICP0004,15412,1000000,15,Monthly,Active,0
+CUST005,40,Male,Bengaluru,Endowment,LICP0005,15696,500000,20,Yearly,Active,0
+CUST006,59,Male,Erode,Money Back,LICP0006,5289,300000,25,Half-Yearly,Active,0
+CUST007,24,Female,Tiruppur,Child Plan,LICP0007,42529,1000000,10,Quarterly,Active,0
+CUST008,52,Male,Bengaluru,Term Insurance,LICP0008,46763,1500000,20,Half-Yearly,Active,0
+CUST009,30,Male,Trichy,Term Insurance,LICP0009,7034,300000,20,Yearly,Lapsed,0
+CUST010,25,Male,Trichy,Term Insurance,LICP0010,31500,1000000,25,Yearly,Active,0
+CUST011,44,Female,Erode,Jeevan Anand,LICP0011,3826,300000,30,Yearly,Active,0
+CUST012,64,Female,Coimbatore,Jeevan Anand,LICP0012,43632,1000000,25,Quarterly,Active,0
+CUST013,54,Female,Salem,Term Insurance,LICP0013,27916,1000000,20,Yearly,Active,380693
+CUST014,55,Female,Chennai,Jeevan Anand,LICP0014,18915,500000,20,Quarterly,Active,0
+CUST015,53,Female,Bengaluru,Endowment,LICP0015,14730,1000000,20,Half-Yearly,Lapsed,0
+CUST016,56,Male,Chennai,Term Insurance,LICP0016,8418,300000,30,Half-Yearly,Active,0
+CUST017,44,Female,Chennai,Money Back,LICP0017,5639,200000,15,Monthly,Lapsed,0
+CUST018,26,Male,Chennai,Endowment,LICP0018,8590,200000,10,Quarterly,Active,308120
+CUST019,58,Male,Tiruppur,Term Insurance,LICP0019,15434,500000,15,Monthly,Active,0
+CUST020,41,Female,Erode,Money Back,LICP0020,41438,1500000,10,Monthly,Active,468186
+CUST021,43,Male,Bengaluru,Money Back,LICP0021,4162,200000,10,Quarterly,Active,375705
+CUST022,37,Male,Salem,Term Insurance,LICP0022,11471,500000,10,Quarterly,Lapsed,0
+CUST023,29,Male,Madurai,Term Insurance,LICP0023,29182,1000000,25,Monthly,Active,0
+CUST024,62,Female,Coimbatore,Endowment,LICP0024,7945,300000,25,Quarterly,Active,0
+CUST025,56,Male,Coimbatore,Jeevan Anand,LICP0025,12713,1000000,25,Half-Yearly,Active,0
+CUST026,49,Male,Madurai,Jeevan Anand,LICP0026,11780,300000,20,Monthly,Active,0
+CUST027,39,Female,Bengaluru,Jeevan Anand,LICP0027,41573,1000000,25,Quarterly,Active,0
+CUST028,58,Male,Erode,Money Back,LICP0028,12471,750000,10,Quarterly,Active,0
+CUST029,45,Female,Bengaluru,Endowment,LICP0029,22712,750000,30,Half-Yearly,Active,340192
+CUST030,40,Female,Coimbatore,Endowment,LICP0030,4675,300000,20,Quarterly,Active,76843
+CUST031,41,Female,Coimbatore,Money Back,LICP0031,17092,500000,30,Half-Yearly,Active,0
+CUST032,31,Male,Trichy,Term Insurance,LICP0032,31921,1500000,10,Quarterly,Active,418979
+CUST033,25,Male,Coimbatore,Endowment,LICP0033,6752,200000,20,Quarterly,Active,0
+CUST034,45,Male,Coimbatore,Jeevan Anand,LICP0034,35991,1000000,25,Quarterly,Active,403488
+CUST035,60,Female,Salem,Jeevan Anand,LICP0035,18683,500000,20,Monthly,Active,0
+CUST036,23,Male,Bengaluru,Endowment,LICP0036,15555,1000000,20,Half-Yearly,Lapsed,0
+CUST037,59,Male,Tiruppur,Term Insurance,LICP0037,31671,750000,10,Monthly,Active,0
+CUST038,58,Male,Coimbatore,Endowment,LICP0038,9799,500000,15,Quarterly,Active,0
+CUST039,33,Female,Trichy,Money Back,LICP0039,3970,300000,15,Yearly,Active,0
+CUST040,49,Male,Trichy,Endowment,LICP0040,22733,750000,15,Yearly,Active,0
+CUST041,28,Female,Trichy,Endowment,LICP0041,4848,200000,25,Half-Yearly,Active,0
+CUST042,55,Male,Bengaluru,Endowment,LICP0042,29537,750000,25,Yearly,Active,437176
+CUST043,52,Male,Chennai,Term Insurance,LICP0043,7734,200000,25,Yearly,Active,382843
+CUST044,36,Male,Bengaluru,Jeevan Anand,LICP0044,16849,750000,15,Quarterly,Active,0
+CUST045,24,Female,Madurai,Term Insurance,LICP0045,32584,750000,30,Yearly,Lapsed,0
+CUST046,64,Male,Trichy,Jeevan Anand,LICP0046,4320,200000,10,Quarterly,Active,0
+CUST047,41,Male,Erode,Term Insurance,LICP0047,28997,1000000,15,Quarterly,Active,0
+CUST048,61,Female,Trichy,Money Back,LICP0048,10223,500000,10,Half-Yearly,Active,0
+CUST049,51,Female,Tiruppur,Jeevan Anand,LICP0049,42889,1000000,15,Yearly,Active,0
+CUST050,56,Female,Tiruppur,Jeevan Anand,LICP0050,3486,200000,30,Yearly,Active,0
